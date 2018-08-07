@@ -10,13 +10,13 @@ While many different technologies and schemas exist and could be combined togeth
 
 ```html
 <meta property="og:locale" content="en_US" />
-<meta property="og:title" content="The Rock" />
+<meta property="og:title" content="Your Site Title" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.yourDomain.com" />
 <meta property="og:image" content="http://yourDomain.com/imagePath/Image.jpg" />
 <meta property="og:site_name" content="Your Website Title" />
 <meta property="og:description" content="Your Website Description" />
-<meta name="twitter:description" content="BYour Website Description" />
+<meta name="twitter:description" content="Your Website Description" />
 <meta name="twitter:title" content="Your Website Title" />
 ```
 
